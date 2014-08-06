@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Whitespace | My Octopress Blog]]></title>
+  <link href="http://themespace.github.io/Koenigspress/blog/categories/whitespace/atom.xml" rel="self"/>
+  <link href="http://themespace.github.io/Koenigspress/"/>
+  <updated>2014-08-07T01:57:29+02:00</updated>
+  <id>http://themespace.github.io/Koenigspress/</id>
+  <author>
+    <name><![CDATA[Themespace]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Check Out the Whitespace Theme README]]></title>
+    <link href="http://themespace.github.io/Koenigspress/blog/2014/07/12/check-the-whitespace-theme/"/>
+    <updated>2014-07-12T06:53:44+02:00</updated>
+    <id>http://themespace.github.io/Koenigspress/blog/2014/07/12/check-the-whitespace-theme</id>
+    <content type="html"><![CDATA[<p>This is the <a href="https://github.com/themespace">Themespace</a> demo blog of the Whitespace theme (for <a href="http://octopress.org/">Octopress</a>).
+Click &ldquo;Read On&rdquo; to find out more.
+All <em>other</em> posts on this website are auto-generated text and code to showcase its appearance.</p>
+
+<!-- more -->
+
+
+<p><strong>This first post is a link post.
+Click the title to navigate to the theme&rsquo;s GitHub repository &ndash; where you can also find links to real blogs using slightly customized versions of Whitespace.</strong></p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://themespace.github.io/Koenigspress/sitemap.xml 
