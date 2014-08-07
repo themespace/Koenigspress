@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://themespace.github.io/Koenigspress/atom.xml" rel="self"/>
   <link href="http://themespace.github.io/Koenigspress/"/>
-  <updated>2014-08-07T02:06:41+02:00</updated>
+  <updated>2014-08-07T02:14:00+02:00</updated>
   <id>http://themespace.github.io/Koenigspress/</id>
   <author>
     <name><![CDATA[Themespace]]></name>
@@ -28,9 +28,9 @@
   
   <entry>
     <title type="html"><![CDATA[Lorem Ipsum]]></title>
-    <link href="http://themespace.github.io/Koenigspress/blog/2014/07/11/lorem-ipsum/"/>
-    <updated>2014-07-11T06:46:41+02:00</updated>
-    <id>http://themespace.github.io/Koenigspress/blog/2014/07/11/lorem-ipsum</id>
+    <link href="http://themespace.github.io/Koenigspress/blog/2014/05/20/orem-lipsum/"/>
+    <updated>2014-05-20T06:46:41+02:00</updated>
+    <id>http://themespace.github.io/Koenigspress/blog/2014/05/20/orem-lipsum</id>
     <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut magna eget erat fermentum dignissim. Aenean interdum ultrices sapien. Vestibulum feugiat ultrices neque, vel pretium massa. Etiam tempor luctus dui eget aliquam. In nec metus sit amet orci facilisis pretium. Vivamus venenatis ac mi sit amet tristique. Proin accumsan adipiscing dui, sed laoreet metus. Morbi nulla risus, pharetra vel placerat eu, dignissim ac ante. Curabitur id dignissim lectus.</p>
 
 <figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
@@ -53,10 +53,35 @@
   
   <entry>
     <title type="html"><![CDATA[Orem Lipsum]]></title>
-    <link href="http://themespace.github.io/Koenigspress/blog/2014/05/11/orem-lipsum/"/>
-    <updated>2014-05-11T14:40:32+02:00</updated>
-    <id>http://themespace.github.io/Koenigspress/blog/2014/05/11/orem-lipsum</id>
+    <link href="http://themespace.github.io/Koenigspress/blog/2014/05/01/orem-lipsum/"/>
+    <updated>2014-05-01T14:40:32+02:00</updated>
+    <id>http://themespace.github.io/Koenigspress/blog/2014/05/01/orem-lipsum</id>
     <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut magna eget erat fermentum dignissim. Aenean interdum ultrices sapien. Vestibulum feugiat ultrices neque, vel pretium massa. Etiam tempor luctus dui eget aliquam. In nec metus sit amet orci facilisis pretium. Vivamus venenatis ac mi sit amet tristique. Proin accumsan adipiscing dui, sed laoreet metus. Morbi nulla risus, pharetra vel placerat eu, dignissim ac ante. Curabitur id dignissim lectus.</p>
+
+<p>Duis dictum massa nec tellus varius placerat. Nunc eu tortor sapien. Curabitur ultrices at ligula id elementum. Cras at nisi vel sapien elementum sagittis. Pellentesque tempor vitae nisl dignissim consequat. Ut ut leo at eros venenatis cursus. Aenean et quam magna.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Lorem Ipsum]]></title>
+    <link href="http://themespace.github.io/Koenigspress/blog/2013/12/18/lorem-ipsum/"/>
+    <updated>2013-12-18T05:46:41+01:00</updated>
+    <id>http://themespace.github.io/Koenigspress/blog/2013/12/18/lorem-ipsum</id>
+    <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut magna eget erat fermentum dignissim. Aenean interdum ultrices sapien. Vestibulum feugiat ultrices neque, vel pretium massa. Etiam tempor luctus dui eget aliquam. In nec metus sit amet orci facilisis pretium. Vivamus venenatis ac mi sit amet tristique. Proin accumsan adipiscing dui, sed laoreet metus. Morbi nulla risus, pharetra vel placerat eu, dignissim ac ante. Curabitur id dignissim lectus.</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="k">def</span> <span class="nf">func10</span><span class="p">(</span><span class="n">arg65</span><span class="p">,</span> <span class="n">arg66</span><span class="p">):</span>
+</span><span class='line'>    <span class="n">var67</span> <span class="o">=</span> <span class="mi">0</span>
+</span><span class='line'>    <span class="k">for</span> <span class="n">var68</span> <span class="ow">in</span> <span class="nb">xrange</span><span class="p">(</span><span class="mi">19</span><span class="p">):</span>
+</span><span class='line'>        <span class="n">var67</span> <span class="o">+=</span> <span class="n">arg65</span> <span class="o">&amp;</span> <span class="n">arg66</span> <span class="o">+</span> <span class="n">var67</span>
+</span><span class='line'>    <span class="k">return</span> <span class="n">var67</span>
+</span></code></pre></td></tr></table></div></figure>
+
 
 <p>Duis dictum massa nec tellus varius placerat. Nunc eu tortor sapien. Curabitur ultrices at ligula id elementum. Cras at nisi vel sapien elementum sagittis. Pellentesque tempor vitae nisl dignissim consequat. Ut ut leo at eros venenatis cursus. Aenean et quam magna.</p>
 
