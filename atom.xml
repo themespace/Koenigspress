@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://themespace.github.io/Koenigspress/atom.xml" rel="self"/>
   <link href="http://themespace.github.io/Koenigspress/"/>
-  <updated>2014-08-09T01:39:15+02:00</updated>
+  <updated>2014-08-09T01:39:58+02:00</updated>
   <id>http://themespace.github.io/Koenigspress/</id>
   <author>
     <name><![CDATA[Themespace]]></name>
@@ -14,9 +14,9 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Theme Demo]]></title>
+    <title type="html"><![CDATA[Koenigspress Theme Demo]]></title>
     <link href="http://themespace.github.io/Koenigspress/blog/2014/07/12/theme-demo/"/>
-    <updated>2014-07-12T00:00:00+02:00</updated>
+    <updated>2014-07-12T06:53:44+02:00</updated>
     <id>http://themespace.github.io/Koenigspress/blog/2014/07/12/theme-demo</id>
     <content type="html"><![CDATA[<p>This is the <a href="https://github.com/themespace">Themespace</a>
 demo blog of the <a href="https://github.com/TheChymera/Koenigspress">Koenigspress theme</a>
