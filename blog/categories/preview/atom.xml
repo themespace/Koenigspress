@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Preview, | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Preview | My Octopress Blog]]></title>
   <link href="http://themespace.github.io/Koenigspress/blog/categories/preview/atom.xml" rel="self"/>
   <link href="http://themespace.github.io/Koenigspress/"/>
-  <updated>2014-08-09T02:55:54+02:00</updated>
+  <updated>2014-08-09T18:29:04+09:00</updated>
   <id>http://themespace.github.io/Koenigspress/</id>
   <author>
     <name><![CDATA[Themespace]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Koenigspress Theme Demo]]></title>
     <link href="http://themespace.github.io/Koenigspress/blog/2014/07/12/theme-demo/"/>
-    <updated>2014-07-12T06:53:44+02:00</updated>
+    <updated>2014-07-12T13:53:44+09:00</updated>
     <id>http://themespace.github.io/Koenigspress/blog/2014/07/12/theme-demo</id>
     <content type="html"><![CDATA[<p>This is the <a href="https://github.com/themespace">Themespace</a>
 demo blog of the <a href="https://github.com/TheChymera/Koenigspress">Koenigspress theme</a>

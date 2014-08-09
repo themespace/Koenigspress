@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Lorem | My Octopress Blog]]></title>
   <link href="http://themespace.github.io/Koenigspress/blog/categories/lorem/atom.xml" rel="self"/>
   <link href="http://themespace.github.io/Koenigspress/"/>
-  <updated>2014-08-09T02:55:54+02:00</updated>
+  <updated>2014-08-09T18:29:04+09:00</updated>
   <id>http://themespace.github.io/Koenigspress/</id>
   <author>
     <name><![CDATA[Themespace]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Lorem Ipsum]]></title>
     <link href="http://themespace.github.io/Koenigspress/blog/2014/05/20/orem-lipsum/"/>
-    <updated>2014-05-20T06:46:41+02:00</updated>
+    <updated>2014-05-20T13:46:41+09:00</updated>
     <id>http://themespace.github.io/Koenigspress/blog/2014/05/20/orem-lipsum</id>
     <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut magna eget erat fermentum dignissim. Aenean interdum ultrices sapien. Vestibulum feugiat ultrices neque, vel pretium massa. Etiam tempor luctus dui eget aliquam. In nec metus sit amet orci facilisis pretium. Vivamus venenatis ac mi sit amet tristique. Proin accumsan adipiscing dui, sed laoreet metus. Morbi nulla risus, pharetra vel placerat eu, dignissim ac ante. Curabitur id dignissim lectus.</p>
 
@@ -47,7 +47,7 @@ return var67
   <entry>
     <title type="html"><![CDATA[Orem Lipsum]]></title>
     <link href="http://themespace.github.io/Koenigspress/blog/2014/05/01/orem-lipsum/"/>
-    <updated>2014-05-01T14:40:32+02:00</updated>
+    <updated>2014-05-01T21:40:32+09:00</updated>
     <id>http://themespace.github.io/Koenigspress/blog/2014/05/01/orem-lipsum</id>
     <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut magna eget erat fermentum dignissim. Aenean interdum ultrices sapien. Vestibulum feugiat ultrices neque, vel pretium massa. Etiam tempor luctus dui eget aliquam. In nec metus sit amet orci facilisis pretium. Vivamus venenatis ac mi sit amet tristique. Proin accumsan adipiscing dui, sed laoreet metus. Morbi nulla risus, pharetra vel placerat eu, dignissim ac ante. Curabitur id dignissim lectus.</p>
 
@@ -112,7 +112,7 @@ return result
   <entry>
     <title type="html"><![CDATA[Lorem Ipsum]]></title>
     <link href="http://themespace.github.io/Koenigspress/blog/2013/12/18/lorem-ipsum/"/>
-    <updated>2013-12-18T05:46:41+01:00</updated>
+    <updated>2013-12-18T13:46:41+09:00</updated>
     <id>http://themespace.github.io/Koenigspress/blog/2013/12/18/lorem-ipsum</id>
     <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut magna eget erat fermentum dignissim. Aenean interdum ultrices sapien. Vestibulum feugiat ultrices neque, vel pretium massa. Etiam tempor luctus dui eget aliquam. In nec metus sit amet orci facilisis pretium. Vivamus venenatis ac mi sit amet tristique. Proin accumsan adipiscing dui, sed laoreet metus. Morbi nulla risus, pharetra vel placerat eu, dignissim ac ante. Curabitur id dignissim lectus.</p>
 
