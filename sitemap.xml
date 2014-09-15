@@ -4,42 +4,51 @@
   
   <url>
     <loc>http://themespace.github.io/Koenigspress/blog/2014/07/12/theme-demo/</loc>
+    
     <lastmod>2014-07-12T13:53:44+09:00</lastmod>
+    
     <priority>0.8</priority>
   </url>
   
   <url>
     <loc>http://themespace.github.io/Koenigspress/blog/2014/05/20/orem-lipsum/</loc>
+    
     <lastmod>2014-05-20T13:46:41+09:00</lastmod>
+    
     <priority>0.8</priority>
   </url>
   
   <url>
     <loc>http://themespace.github.io/Koenigspress/blog/2014/05/01/orem-lipsum/</loc>
+    
     <lastmod>2014-05-01T21:40:32+09:00</lastmod>
+    
     <priority>0.8</priority>
   </url>
   
   <url>
     <loc>http://themespace.github.io/Koenigspress/blog/2013/12/18/lorem-ipsum/</loc>
+    
     <lastmod>2013-12-18T13:46:41+09:00</lastmod>
+    
     <priority>0.8</priority>
   </url>
   
   
   <url>
     <loc>http://themespace.github.io/Koenigspress/blog/archives/</loc>
-    <lastmod>2014-08-09T18:29:04+09:00</lastmod>
+    <lastmod>2014-09-15T19:44:21+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://themespace.github.io/Koenigspress/</loc>
-    <lastmod>2014-08-09T18:29:04+09:00</lastmod>
+    <lastmod>2014-09-15T19:44:21+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+  
   
   
 </urlset>
